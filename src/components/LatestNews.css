@@ -1,0 +1,28 @@
+.latest-news {
+    flex: 1;
+    padding: 1rem;
+    background: #f1f1f1;
+    border-radius: 8px;
+  }
+  
+  .latest-news-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 8px;
+    background: white;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .latest-news-item h2 {
+    margin-top: 0;
+  }
+  
+  .latest-news-item .news-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
